@@ -13,7 +13,6 @@
 - Use `CTRL+SHIFT+TAB` to open your closed tabs
 - Use `CTRL+W` to close the current tab
 - Push down on the scroll wheel to close tabs and to open links in new tabs
-- 
 
 **For VSCode**
 - Use `CTRL /` to comment out a section 
